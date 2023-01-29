@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hubert</h1>
+<h1 align="center">Hi 👋, I am Hubert</h1>
 <h3 align="center">A junior fullstack developer from Poland</h3>
 
 - 🔭 I’m currently working on **GroceryStore**  <a href="https://github.com/Hubertgitck/GroceryStore">web application</a>
