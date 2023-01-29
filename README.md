@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Hubert</h1>
 <h3 align="center">A junior fullstack developer from Poland</h3>
 
-<h3 align="center"><a href="https://hubert-koziel.profesjonalnyprogramista.pl/"> My personal site</a></h3>
+<h2 align="center"><a href="https://hubert-koziel.profesjonalnyprogramista.pl/"> My personal site</a></h2>
 
 - 🔭 I’m currently working on **GroceryStore**  <a href="https://github.com/Hubertgitck/GroceryStore">web application</a>
 
