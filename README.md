@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.NET MVC, .NET Core, EntityFramework**
 
-- 👨‍💻 All of my projects are available at [my github account](my github account)
+- 👨‍💻 All of my projects are available at github account.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
