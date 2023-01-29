@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hubert</h1>
 <h3 align="center">A junior fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on **GroceryShop**
+- 🔭 I’m currently working on **GroceryStore** web application <a href="https://github.com/Hubertgitck/GroceryStore"></a>
 
 - 🌱 I’m currently learning **.NET MVC, .NET Core, EntityFramework**
 
