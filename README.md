@@ -3,7 +3,7 @@
 
 <h2 align="center"><a href="https://hubert-koziel.profesjonalnyprogramista.pl/"> My personal site</a></h2>
 
-- 🔭 I’m currently working on **GroceryStore**  <a href="https://github.com/Hubertgitck/GroceryStore">web application</a> and Binder project with StraykerSoftware team <a href="https://github.com/Strayker-Software/Binder"></a>
+- 🔭 I’m currently working on **GroceryStore**  <a href="https://github.com/Hubertgitck/GroceryStore">web application</a> and <a href="https://github.com/Strayker-Software/Binder">Binder</a>project with StraykerSoftware team 
 
 - 🌱 I’m currently learning **.NET MVC, .NET Core, EntityFramework**
 
