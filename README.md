@@ -3,9 +3,9 @@
 
 <h2 align="center"><a href="https://hubert-koziel.profesjonalnyprogramista.pl/"> My personal site</a></h2>
 
-- 🔭 I’m currently working on **GroceryStore**  <a href="https://github.com/Hubertgitck/GroceryStore">web application</a> and <a href="https://github.com/Strayker-Software/Binder">Binder</a> project with StraykerSoftware team 
+- 🔭 I’m currently working as a Junior FullStack Developer in HappyTeam
 
-- 🌱 I’m currently learning **.NET MVC, .NET Core, EntityFramework**
+- 🌱 I’m currently learning **.NET MVC, .NET Core, EntityFramework**, React
 
 - 👨‍💻 All of my projects are available at github account.
 
